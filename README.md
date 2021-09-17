@@ -1,4 +1,4 @@
 # hello-world
-just another repository
+this is the repository for testing.
 
 Hi,humans!
